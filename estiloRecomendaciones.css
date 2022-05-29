@@ -1,0 +1,14 @@
+.seption-container h2{
+    text-align: center;
+    color: #32e;
+    margin: 10px;
+}
+
+.seption-container h2:hover{
+    color: #123;
+    font-size: 40px;
+}
+
+.seption-container p{
+    margin: 25px;
+}
